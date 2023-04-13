@@ -1,0 +1,42 @@
+<svg width="1332" height="570" viewBox="0 0 1332 570" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path shape-rendering='crispEdges' fill="url(#a)" d="M647.831 565.151a77.974 77.974 0 0 1-73.485-51.963L449.871 161.544a77.955 77.955 0 0 1 47.479-99.493 77.95 77.95 0 0 1 99.492 47.479L721.317 461.2a78.006 78.006 0 0 1-9.847 70.997 77.988 77.988 0 0 1-63.639 32.979v-.025Z"/>
+  <path shape-rendering='crispEdges' fill="url(#b)" d="m571.039 461.453 92.908-360.613a62.721 62.721 0 0 1 72.99-45.003 62.726 62.726 0 0 1 49.691 69.883l-54.833 368.324a82.154 82.154 0 0 1-93.356 69.169 82.155 82.155 0 0 1-69.168-93.356 80.202 80.202 0 0 1 1.768-8.404Z"/>
+  <path shape-rendering='crispEdges' fill="url(#c)" d="M1268.57 228.75 674.967 561.408a67.004 67.004 0 0 1-74.511-110.869L1132.71 26.613A122.224 122.224 0 0 1 1222.6.781a122.241 122.241 0 0 1 45.42 14.508 122.074 122.074 0 0 1 36.4 30.785 122.112 122.112 0 0 1 21.86 42.373 122.375 122.375 0 0 1 3.98 47.512 122.276 122.276 0 0 1-14.51 45.417 122.077 122.077 0 0 1-30.79 36.407 130.93 130.93 0 0 1-16.39 10.967Z"/>
+  <path shape-rendering='crispEdges' fill="url(#d)" d="M763.696 67.176 1100.33 407.75a93.823 93.823 0 0 1 27.09 66.509 93.808 93.808 0 0 1-27.86 66.191 93.85 93.85 0 0 1-66.51 27.098 93.83 93.83 0 0 1-66.192-27.867 105.403 105.403 0 0 1-9.353-11.069L677.322 140.251a56.731 56.731 0 0 1 9.287-76.607 56.726 56.726 0 0 1 77.087 3.532Z"/>
+  <path shape-rendering='crispEdges' fill="url(#e)" d="M578.292 181.09a78.58 78.58 0 0 0 21.244-57.612 78.573 78.573 0 0 0-26.679-55.304 78.578 78.578 0 0 0-58.314-19.233 78.585 78.585 0 0 0-54.346 28.582l-316.259 357.64a78.589 78.589 0 0 0-13.53 87.978 78.568 78.568 0 0 0 46.165 40.486 78.586 78.586 0 0 0 85.459-24.897l316.26-357.64Z"/>
+  <path shape-rendering='crispEdges' fill="url(#f)" d="M123.439 512.876a78.516 78.516 0 0 0 97.366 53.372 78.505 78.505 0 0 0 56.053-66.849 78.5 78.5 0 0 0-2.681-30.516l-90.038-358.717A93.01 93.01 0 1 0 6.088 161.873l117.351 351.003Z"/>
+  <path shape-rendering='crispEdges' fill="url(#g)" d="M191.62 256.602c44.958 0 81.403-36.446 81.403-81.403 0-44.958-36.445-81.403-81.403-81.403-44.957 0-81.403 36.445-81.403 81.403 0 44.957 36.446 81.403 81.403 81.403Z"/>
+  <defs>
+    <linearGradient id="a" x1="725.801" x2="445.387" y1="311.359" y2="311.359" gradientUnits="userSpaceOnUse">
+      <stop offset=".14" stop-color="#BF9B79"/>
+      <stop offset=".33" stop-color="#B29381"/>
+      <stop offset="1" stop-color="#C8996E"/>
+    </linearGradient>
+    <linearGradient id="b" x1="788.447" x2="567.068" y1="493.378" y2="109.911" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BE9A79"/>
+      <stop offset=".73" stop-color="#DB5B4F"/>
+    </linearGradient>
+    <linearGradient id="c" x1="1022.1" x2="877.257" y1="424.66" y2="173.764" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#8F4B98"/>
+      <stop offset="1" stop-color="#E43A80"/>
+    </linearGradient>
+    <linearGradient id="d" x1="626.948" x2="1122.46" y1="308.925" y2="308.925" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4CA5DB"/>
+      <stop offset="1" stop-color="#6256A5"/>
+    </linearGradient>
+    <linearGradient id="e" x1="7.908" x2="515.824" y1="702.51" y2="135.379" gradientUnits="userSpaceOnUse">
+      <stop offset=".14" stop-color="#4788C8"/>
+      <stop offset=".55" stop-color="#9293A0"/>
+      <stop offset=".95" stop-color="#B6997F"/>
+    </linearGradient>
+    <linearGradient id="f" x1="78.292" x2="342.487" y1="81.392" y2="930.909" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4788C8"/>
+      <stop offset=".57" stop-color="#9293A0"/>
+      <stop offset=".98" stop-color="#B6997F"/>
+    </linearGradient>
+    <linearGradient id="g" x1="269.385" x2="18.668" y1="134.818" y2="265.057" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FBA92F"/>
+      <stop offset="1" stop-color="#EB7338"/>
+    </linearGradient>
+  </defs>
+</svg>
